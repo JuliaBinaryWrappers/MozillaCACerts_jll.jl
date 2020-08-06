@@ -1,6 +1,6 @@
 name = "MozillaCACerts_jll"
 uuid = "14a3606d-f60d-562e-9121-12d972cd8159"
-version = "2020.0.0-07-22+1"
+version = "2020.7.22+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
