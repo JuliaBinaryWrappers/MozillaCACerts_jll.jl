@@ -1,6 +1,6 @@
 [MozillaCACerts]
-git-tree-sha1 = "66e161682ab1784a3e1cf6308e795db09c79664d"
+git-tree-sha1 = "c489ef290d7a4daa356a94d7b93e3b98844051f8"
 
     [[MozillaCACerts.download]]
-    sha256 = "c38d56e016ea9848a0af8e0dadd90c8ee3cf0539e87a24be667e71e95d0ec8bb"
-    url = "https://github.com/JuliaBinaryWrappers/MozillaCACerts_jll.jl/releases/download/MozillaCACerts-v2022.3.29+0/MozillaCACerts.v2022.3.29.any.tar.gz"
+    sha256 = "b015073ac13d1ab8da36abbb930e1896b96c43d0336b149a79d9941e3c193264"
+    url = "https://github.com/JuliaBinaryWrappers/MozillaCACerts_jll.jl/releases/download/MozillaCACerts-v2022.10.11+0/MozillaCACerts.v2022.10.11.any.tar.gz"
